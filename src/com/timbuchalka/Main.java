@@ -12,6 +12,9 @@ import java.util.Map;
  * Contact author at:  http://timbuchalka.com
  * 
  */
+
+//test commit
+
 public class Main {
     private static StockList stockList = new StockList();
 
